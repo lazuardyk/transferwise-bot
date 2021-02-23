@@ -3,8 +3,8 @@
 
 /////* BOT Configuration */////
 $expectedRate = 14200;
-$tokenBot = '1072213363:AAEZU11SFubslrFzNnb9JHF1SymWpN_iXi0';
-$chatId = '-380598521';
+$tokenBot = '1072213363:AAEZU11SFubslrFzNnb9JHF1SymWpN_2831';
+$chatId = '-380598533';
 ///////////////////////////////
 
 $result = scrape($expectedRate);
